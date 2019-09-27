@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Francis读书笔记</title>
+    <link>https://francisren.github.io/categories/python/</link>
+    <description>Recent content in python on Francis读书笔记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 18 Sep 2019 20:53:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://francisren.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>python比较符号</title>
+      <link>https://francisren.github.io/2019/09/18/compare/</link>
+      <pubDate>Wed, 18 Sep 2019 20:53:46 +0800</pubDate>
+      
+      <guid>https://francisren.github.io/2019/09/18/compare/</guid>
+      <description>&lt;h2 id=&#34;python比较符号&#34;&gt;python比较符号&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Python转义字符表示方法</title>
+      <link>https://francisren.github.io/2019/09/18/escapechar/</link>
+      <pubDate>Wed, 18 Sep 2019 20:53:39 +0800</pubDate>
+      
+      <guid>https://francisren.github.io/2019/09/18/escapechar/</guid>
+      <description>&lt;h2 id=&#34;python转义字符表示方法&#34;&gt;Python转义字符表示方法&lt;/h2&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

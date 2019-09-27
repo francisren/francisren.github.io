@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francis读书笔记</title>
+    <link>https://francisren.github.io/</link>
+    <description>Recent content on Francis读书笔记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 25 Sep 2019 15:07:55 +0800</lastBuildDate>
+    
+	<atom:link href="https://francisren.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>manjaro-gnome-18.1版本的安装</title>
+      <link>https://francisren.github.io/2019/09/25/manjaro/</link>
+      <pubDate>Wed, 25 Sep 2019 15:07:55 +0800</pubDate>
+      
+      <guid>https://francisren.github.io/2019/09/25/manjaro/</guid>
+      <description>&lt;h4 id=&#34;manjaro-gnome-18-1版本的安装&#34;&gt;manjaro-gnome-18.1版本的安装&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;人生苦短,我用Manjaro&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;./123.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>全部文章</title>
+      <link>https://francisren.github.io/archives/</link>
+      <pubDate>Thu, 19 Sep 2019 22:06:55 +0800</pubDate>
+      
+      <guid>https://francisren.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python比较符号</title>
+      <link>https://francisren.github.io/2019/09/18/compare/</link>
+      <pubDate>Wed, 18 Sep 2019 20:53:46 +0800</pubDate>
+      
+      <guid>https://francisren.github.io/2019/09/18/compare/</guid>
+      <description>&lt;h2 id=&#34;python比较符号&#34;&gt;python比较符号&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Python转义字符表示方法</title>
+      <link>https://francisren.github.io/2019/09/18/escapechar/</link>
+      <pubDate>Wed, 18 Sep 2019 20:53:39 +0800</pubDate>
+      
+      <guid>https://francisren.github.io/2019/09/18/escapechar/</guid>
+      <description>&lt;h2 id=&#34;python转义字符表示方法&#34;&gt;Python转义字符表示方法&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://francisren.github.io/about/</link>
+      <pubDate>Wed, 18 Sep 2019 14:21:18 +0800</pubDate>
+      
+      <guid>https://francisren.github.io/about/</guid>
+      <description>&lt;h1 id=&#34;关于我&#34;&gt;关于我&lt;/h1&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
